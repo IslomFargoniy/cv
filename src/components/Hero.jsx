@@ -85,7 +85,7 @@ export default function Hero() {
           className="flex items-center justify-center gap-4 flex-wrap"
         >
           <a
-            href="https://github.com/IslamAbdurahman"
+            href="https://github.com/IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-primary hover:bg-primary/80 text-white rounded-lg font-mono text-sm transition-all duration-200 hover:scale-105"
@@ -94,7 +94,7 @@ export default function Hero() {
             {t("hero.github")}
           </a>
           <a
-            href="https://www.youtube.com/@IslamAbdurahman"
+            href="https://www.youtube.com/@IslomFargniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-secondary text-secondary hover:bg-secondary/10 rounded-lg font-mono text-sm transition-all duration-200 hover:scale-105"

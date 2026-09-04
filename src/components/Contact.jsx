@@ -41,7 +41,7 @@ export default function Contact() {
           </div>
 
           <a
-            href="https://github.com/IslamAbdurahman"
+            href="https://github.com/IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-primary/50 hover:bg-primary/5 transition-all duration-200 group"
@@ -52,13 +52,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">GitHub</p>
               <p className="text-slate-500 text-xs font-mono">
-                github.com/IslamAbdurahman
+                github.com/IslomFargoniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://www.youtube.com/@IslamAbdurahman"
+            href="https://www.youtube.com/@IslomFargniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-secondary/50 hover:bg-secondary/5 transition-all duration-200 group"
@@ -69,13 +69,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">YouTube</p>
               <p className="text-slate-500 text-xs font-mono">
-                @IslamAbdurahman
+                @IslomFargniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://t.me/livelongevity"
+            href="https://t.me/IslomFargniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-sky-400/50 hover:bg-sky-400/5 transition-all duration-200 group"
@@ -86,7 +86,7 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">Telegram</p>
               <p className="text-slate-500 text-xs font-mono">
-                @livelongevity
+                @IslomFargniy
               </p>
             </div>
           </a>
@@ -109,7 +109,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://www.instagram.com/islamabdurahmandev/"
+            href="https://www.instagram.com/IslomFargniy/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-pink-500/50 hover:bg-pink-500/5 transition-all duration-200 group"
@@ -120,7 +120,7 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">Instagram</p>
               <p className="text-slate-500 text-xs font-mono">
-                @islamabdurahmandev
+                @IslomFargniy
               </p>
             </div>
           </a>

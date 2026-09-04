@@ -43,9 +43,9 @@ npm run build
 
 ## Links
 
-- GitHub: [github.com/IslamAbdurahman](https://github.com/IslamAbdurahman)
-- YouTube: [youtube.com/@IslamAbdurahman](https://www.youtube.com/@IslamAbdurahman)
+- GitHub: [github.com/IslomFargoniy](https://github.com/IslomFargoniy)
+- YouTube: [youtube.com/@IslomFargniy](https://www.youtube.com/@IslomFargniy)
 - LinkedIn: [linkedin.com/in/islamabdurahman](https://www.linkedin.com/in/islamabdurahman)
-- Telegram: [t.me/livelongevity](https://t.me/livelongevity)
-- Instagram: [instagram.com/islamabdurahmandev](https://www.instagram.com/islamabdurahmandev)
+- Telegram: [t.me/IslomFargniy](https://t.me/IslomFargniy)
+- Instagram: [instagram.com/IslomFargniy](https://www.instagram.com/IslomFargniy)
 - Upwork: [upwork.com/fl/islamabdurahman](https://www.upwork.com/freelancers/~0181636e3834545e53)
