@@ -58,7 +58,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://www.youtube.com/@IslomFargniy"
+            href="https://www.youtube.com/@IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-secondary/50 hover:bg-secondary/5 transition-all duration-200 group"
@@ -69,13 +69,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">YouTube</p>
               <p className="text-slate-500 text-xs font-mono">
-                @IslomFargniy
+                @IslomFargoniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://t.me/IslomFargniy"
+            href="https://t.me/IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-sky-400/50 hover:bg-sky-400/5 transition-all duration-200 group"
@@ -86,13 +86,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">Telegram</p>
               <p className="text-slate-500 text-xs font-mono">
-                @IslomFargniy
+                @IslomFargoniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://www.linkedin.com/in/islamabdurahman/?locale=en"
+            href="https://www.linkedin.com/in/IslomFargoniy/?locale=en"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-blue-500/50 hover:bg-blue-500/5 transition-all duration-200 group"
@@ -103,13 +103,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">LinkedIn</p>
               <p className="text-slate-500 text-xs font-mono">
-                in/islamabdurahman
+                in/IslomFargoniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://www.instagram.com/IslomFargniy/"
+            href="https://www.instagram.com/IslomFargoniy/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-pink-500/50 hover:bg-pink-500/5 transition-all duration-200 group"
@@ -120,13 +120,13 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">Instagram</p>
               <p className="text-slate-500 text-xs font-mono">
-                @IslomFargniy
+                @IslomFargoniy
               </p>
             </div>
           </a>
 
           <a
-            href="https://www.upwork.com/freelancers/~0181636e3834545e53"
+            href="https://www.upwork.com/fl/IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-green-400/50 hover:bg-green-400/5 transition-all duration-200 group"
@@ -137,7 +137,7 @@ export default function Contact() {
             <div>
               <p className="text-white font-semibold text-sm">Upwork</p>
               <p className="text-slate-500 text-xs font-mono">
-                upwork.com/fl/islamabdurahman
+                upwork.com/fl/IslomFargoniy
               </p>
             </div>
           </a>

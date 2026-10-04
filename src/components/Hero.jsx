@@ -94,7 +94,7 @@ export default function Hero() {
             {t("hero.github")}
           </a>
           <a
-            href="https://www.youtube.com/@IslomFargniy"
+            href="https://www.youtube.com/@IslomFargoniy"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-secondary text-secondary hover:bg-secondary/10 rounded-lg font-mono text-sm transition-all duration-200 hover:scale-105"
