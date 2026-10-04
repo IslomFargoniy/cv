@@ -48,4 +48,4 @@ npm run build
 - LinkedIn: [linkedin.com/in/IslomFargoniy](https://www.linkedin.com/in/IslomFargoniy)
 - Telegram: [t.me/IslomFargoniy](https://t.me/IslomFargoniy)
 - Instagram: [instagram.com/IslomFargoniy](https://www.instagram.com/IslomFargoniy)
-- Upwork: [upwork.com/fl/IslomFargoniy](https://www.upwork.com/fl/IslomFargoniy)
+- Upwork: [upwork.com/freelancers/~0181636e3834545e53](https://www.upwork.com/freelancers/~0181636e3834545e53)

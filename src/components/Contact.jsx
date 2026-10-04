@@ -126,7 +126,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://www.upwork.com/fl/IslomFargoniy"
+            href="https://www.upwork.com/freelancers/~0181636e3834545e53"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-4 rounded-xl border border-border hover:border-green-400/50 hover:bg-green-400/5 transition-all duration-200 group"
@@ -136,8 +136,8 @@ export default function Contact() {
             </div>
             <div>
               <p className="text-white font-semibold text-sm">Upwork</p>
-              <p className="text-slate-500 text-xs font-mono">
-                upwork.com/fl/IslomFargoniy
+              <p className="text-slate-500 text-xs font-mono truncate">
+                upwork.com/freelancers/~0181636e3834545e53
               </p>
             </div>
           </a>
