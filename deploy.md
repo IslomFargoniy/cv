@@ -1,6 +1,6 @@
 # Deploy Qo'llanmasi (cv.faith.uz)
 
-Ushbu qo'llanma **Islombek Abdurahman Portfolio (CV)** loyihasini ishlab chiqarish (production) serveriga yuklash va yangilash bo'yicha ko'rsatmalarni o'z ichiga oladi.
+Ushbu qo'llanma **Islombek Abduraxmonov Portfolio (CV)** loyihasini ishlab chiqarish (production) serveriga yuklash va yangilash bo'yicha ko'rsatmalarni o'z ichiga oladi.
 
 ---
 

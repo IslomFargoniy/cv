@@ -1,4 +1,4 @@
-# Islombek Abdurahman — Full-Stack Developer Portfolio
+# Islombek Abduraxmonov — Full-Stack Developer Portfolio
 
 Personal portfolio website built with React.js, Tailwind CSS, and Framer Motion. Features a minimalist dark-mode design with multi-language support (UZ/RU/EN).
 
